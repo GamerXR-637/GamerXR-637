@@ -1,3 +1,7 @@
+<div align="center">
+  <img width="100%" src="https://media1.tenor.com/m/ryjNSC8tiYcAAAAd/red-dark.gif" alt="cover" />
+</div>
+
 # Hello I'm GamerXR-637
 -------------------------
 Most of the work is use with Copilot AI
