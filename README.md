@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://media1.tenor.com/m/ryjNSC8tiYcAAAAd/red-dark.gif" alt="cover" />
+  <img width="90%" src="https://media1.tenor.com/m/ryjNSC8tiYcAAAAd/red-dark.gif" alt="cover" />
 </div>
 
 # Hello I'm GamerXR-637
