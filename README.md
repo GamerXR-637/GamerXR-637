@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="90%" src="image.png" alt="image.png" />
+  <img width="90%" src="red-dark.png" alt="image.png" />
 </div>
 
 # Hello I'm GamerXR-637
