@@ -3,11 +3,10 @@
 </div>
 
 <div align="left">
-
- <ul>
    <h1>About Me</h1>
-  <li>Hello I'm GamerXR-637, I'm a learning developer from the US</li>
-  <li>Some languages that I am learning are:</li>
+    <h3>Hello I'm GamerXR-637, I'm a learning developer from the US</h3>
+ <ul>
+  <h4>Some languages that I am learning are:</h4>
   <li>JaveScript</li>
   <li>HTML</li>
 </ul>
@@ -24,7 +23,7 @@
 </ul>
   <div align="center">-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-</div>
 <ul>
-  <h3>Dislikes:</h3>
+  <h2>Dislikes:</h2>
   <li>Dogs (Sorry)</li>
   <li>High Places</li>
   <li>Being Bored</li>
