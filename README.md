@@ -15,8 +15,8 @@
 
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=GamerXR-637&theme=radical&show_icons=true&hide_border=true&count_private=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GamerXR-637&layout=donut&theme=radical&hide=swift,csharp" height="195">
+    <img src="https://github-readme-stats.vercel.app/api?username=GamerXR-637&theme=radical&show_icons=false&hide_border=true&count_private=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GamerXR-637&layout=donut&theme=radical&hide=swift" height="195">
 </div>
 
 
