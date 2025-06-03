@@ -1,23 +1,18 @@
 <div align="center">
-  <img width="90%" src="red-dark.png" alt="red-dark.png" />
+  <img width="90%" src="red-dark.png" alt="A banner image, red and dark theme" />
 </div>
 
-<div align="left">
-   <h1>About Me</h1>
-    <h3>Hello I'm GamerXR-637, I'm a learning developer from the US</h3>
- <ul>
-  <h4>Some languages that I am learning are:</h4>
-  <li>JaveScript</li>
-  <li>HTML</li>
-</ul>
-  <div align="center">-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-</div>
-</div>
+## About Me
+Hello! I'm **GamerXR-637**, a developer learning and growing my skills in the US.
 
+### Programming Languages I'm Learning
+- **JavaScript**
+- **HTML**
+- **CSS**
+
+<hr />
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=GamerXR-637&theme=radical&show_icons=false&hide_border=true&count_private=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GamerXR-637&layout=donut&theme=radical&hide=swift" height="195">
+    <img src="https://github-readme-stats.vercel.app/api?username=GamerXR-637&theme=radical&show_icons=false&hide_border=true&count_private=true" alt="GitHub Stats" height="150">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GamerXR-637&layout=donut&theme=radical&hide=swift" alt="Top Languages" height="150">
 </div>
-
-
-
