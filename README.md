@@ -1,10 +1,14 @@
 <image src="red-dark.png">
 
 <h1 align="center">Hi 👋, I'm GamerXR-637</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gamerxr-637&label=Profile%20views&color=0e75b6&style=flat" alt="gamerxr-637" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gamerxr-637&label=Profile%20views&color=0e75b6&style=flat" alt="gamerxr-637" /> </p>
 
 
 ```js
+
+let birthday = "June / 25"
+let citizen = "Mexican / American"
+
 function about() {
 return `
 Hello, I'm Gamer or GamerXR
@@ -14,6 +18,7 @@ I like to write stories - Currently I'm working on Iren[e]a
 }
 
 console.log(about())
+
 ```
 
 <h3 align="left">Languages:</h3>
