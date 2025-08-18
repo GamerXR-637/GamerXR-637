@@ -6,9 +6,11 @@
 
 ```js
 
-let birthday = "June / 25"
-let citizen = "Mexican / American"
-let pronouns = "He / Him / His // Any Pronouns"
+let birthday = "June / 25";
+let citizen = "Mexican / American";
+let pronouns = "He / Him / His // Any Pronouns";
+
+let discord = "_gamerxr.637\_"
 
 function about() {
 return `
