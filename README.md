@@ -6,21 +6,23 @@
 
 ```js
 
-let birthday = "June / 25";
-let citizen = "Mexican / American";
-let pronouns = "He / Him / His // Any Pronouns";
-
-let discord = "_gamerxr.637_"
+let data = {
+  birthday: "June / 25",
+  citizen: "Mexican / American",
+  pronouns: "He / Him / His // Any Pronouns",
+  discord: "_gamerxr.637_",
+  freeTime: "Chess / Video Games"
+}
 
 function about() {
-return `
+  return `
 Hello, I'm Gamer or GamerXR
-🌱 I’m currently learning Javascript, Html, Css, Typescript
+🌱 I’m currently learning Javascript, Html, Css
 I like to write stories - Currently I'm working on Iren[e]a!
 `;
 }
 
-console.log(about())
+console.log(about());
 
 ```
 
