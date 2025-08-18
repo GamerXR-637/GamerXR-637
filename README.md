@@ -10,7 +10,7 @@ let birthday = "June / 25";
 let citizen = "Mexican / American";
 let pronouns = "He / Him / His // Any Pronouns";
 
-let discord = "_gamerxr.637\_"
+let discord = "_gamerxr.637_"
 
 function about() {
 return `
