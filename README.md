@@ -8,12 +8,13 @@
 
 let birthday = "June / 25"
 let citizen = "Mexican / American"
+let pronouns = "He / Him / His // Any Pronouns"
 
 function about() {
 return `
 Hello, I'm Gamer or GamerXR
 🌱 I’m currently learning Javascript, Html, Css, Typescript
-I like to write stories - Currently I'm working on Iren[e]a
+I like to write stories - Currently I'm working on Iren[e]a!
 `;
 }
 
@@ -21,12 +22,12 @@ console.log(about())
 
 ```
 
+<h3 align="left">Languages:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+
 ---
 🌟 **My Stats!** 🌟
 ---
-
-<h3 align="left">Languages:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gamerxr-637&show_icons=true&theme=onedark&locale=en" alt="gamerxr-637" /></p>
 
