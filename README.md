@@ -1,3 +1,5 @@
+<image src="red-dark.png">
+
 <h1 align="center">Hi 👋, I'm GamerXR-637</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gamerxr-637&label=Profile%20views&color=0e75b6&style=flat" alt="gamerxr-637" /> </p>
 
