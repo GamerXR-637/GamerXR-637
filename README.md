@@ -11,13 +11,13 @@ let data = {
   citizen: "Mexican / American",
   pronouns: "He / Him / His // Any Pronouns",
   discord: "_gamerxr.637_",
-  freeTime: "Chess / Video Games"
+  freeTime: "Chess / Video Games / Creative Writing"
 }
 
 function about() {
   return `
 Hello, I'm Gamer or GamerXR
-🌱 I’m currently learning Javascript, Html, Css
+🌱 I’m currently learning JavaScript, Python
 I like to write stories - Currently I'm working on Iren[e]a!
 `;
 }
@@ -26,9 +26,18 @@ console.log(about());
 
 ```
 
-<h3 align="left">Languages:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
-<p align="center">
+<h3 align="left">Tools:</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
 ---
 🌟 **My Stats!** 🌟
 ---
