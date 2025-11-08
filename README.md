@@ -38,9 +38,11 @@ console.log(about());
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
----
-🌟 **My Stats!** 🌟
----
+<h2>🌟 **My Stats!** 🌟</h2>
 </p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gamerxr-637&show_icons=true&theme=onedark&locale=en" alt="gamerxr-637" /></p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gamerxr-637&theme=onedark" alt="gamerxr-637" /></p>
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=gamerxr-637&show_icons=true&theme=onedark&locale=en" alt="GitHub Stats" style="width: 400px; height: auto;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamerxr-637&layout=compact&theme=onedark&locale=en" alt="Top Languages" style="width: 400px; height: auto;" />
+</div>
+
+<!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gamerxr-637&theme=onedark" alt="gamerxr-637" /></p> -->
