@@ -7,12 +7,21 @@
 ```js
 
 let data = {
-  birthday: "June / 25",
+  birthday: "June - 25",
   citizen: "Mexican / American",
   pronouns: "He / Him / His // Any Pronouns",
   discord: "_gamerxr.637_",
-  freeTime: "Chess / Video Games / Creative Writing"
-}
+  freeTime: "Chess / Video Games / Creative Writing",
+  loves: "Chess, Pokemon, Card games, Lego, Math",
+  quote:
+    'All that we see or seem is but a dream within a dream." - Edgar Allan Poe',
+  constellation: "Phenix Constellation",
+  games: "Minecraft, Geometry Dash, Others",
+  url: {
+    main: "https://gamerxr637.is-a.dev/",
+    "school-project": "https://gamerxr637.is-a.dev/Chess-Cancer/",
+  },
+};
 
 function about() {
   return `
@@ -21,7 +30,6 @@ Hello, I'm Gamer or GamerXR
 I like to write stories - Currently I'm working on Iren[e]a!
 `;
 }
-
 console.log(about());
 
 ```
@@ -41,8 +49,11 @@ console.log(about());
 <h2>🌟 **My Stats!** 🌟</h2>
 </p>
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=gamerxr-637&show_icons=true&theme=onedark&locale=en" alt="GitHub Stats" style="width: 400px; height: auto;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamerxr-637&layout=compact&theme=onedark&locale=en" alt="Top Languages" style="width: 400px; height: auto;" />
+<a>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gamerxr-637&theme=onedark&locale=en" />
+</a>
+<a>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gamerxr-637&layout=compact&langs_count=8&card_width=320&theme=onedark&locale=en" />
+</a>
 </div>
-
 <!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gamerxr-637&theme=onedark" alt="gamerxr-637" /></p> -->
