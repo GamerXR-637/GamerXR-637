@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm GamerXR-637</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gamerxr-637&label=Profile%20views&color=0e75b6&style=flat" alt="gamerxr-637" /> </p>
-<img align="right" height="250" src="pfp.png"  />
+<img align="right" height="250" src="glitch.animated.gif" />
 
 ###
 
