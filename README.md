@@ -1,59 +1,66 @@
-<p align="center"><img src="red-dark.png" width=125%></p>
+<p align="center"><img src="red-dark.png" width=105%></p>
 
 <h1 align="center">Hi 👋, I'm GamerXR-637</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gamerxr-637&label=Profile%20views&color=0e75b6&style=flat" alt="gamerxr-637" /> </p>
+<img align="right" height="250" src="pfp.png"  />
 
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+</div>
+
+###
+
+<p align="left"> I'm just a high school student who is learning languages to use them as tools
+<br>Most of the time, I am in my head, wondering and thinking many things
+<br>All of that is what to write for stories, and other times is about math or thinking in general
+<br>My main language is English, but I know how to speak Spanish
+<br>As for me, I enjoy chess and other stuff 
+<br><a href="https://gamerxr637.is-a.dev/" target="_blank" rel="noopener">gamerxr637.is-a.dev</a>
+</p>
+  
+###
+
+<br>
 
 ```js
-
 let data = {
-  birthday: "June - 25",
-  citizen: "Mexican / American",
+  birthday: "June 25",
+  id: "Mexican / American",
   pronouns: "He / Him / His // Any Pronouns",
   discord: "_gamerxr.637_",
   freeTime: "Chess / Video Games / Creative Writing",
   loves: "Chess, Pokemon, Card games, Lego, Math",
+  books: "Shadow Frost, Curious Tides",
   quote:
-    'All that we see or seem is but a dream within a dream." - Edgar Allan Poe',
+    'All that we see or seem is but a dream within a dream."- Edgar Allan Poe',
   constellation: "Phenix Constellation",
-  games: "Minecraft, Geometry Dash, Others",
+  games: "Minecraft, Geometry Dash",
   url: {
     main: "https://gamerxr637.is-a.dev/",
     "school-project": "https://gamerxr637.is-a.dev/Chess-Cancer/",
   },
 };
-
-function about() {
-  return `
-Hello, I'm Gamer or GamerXR
-🌱 I’m currently learning JavaScript, Python
-I like to write stories - Currently I'm working on Iren[e]a!
-`;
-}
-console.log(about());
-
 ```
 
-<h3 align="left">Tools:</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+<h2 align="center">🌟 **My Stats!** 🌟</h2>
+
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=GamerXR-637&radius=10&theme=dracula&area=true&order=10" 
+         height="280" 
+         alt="GitHub Activity Graph" />
 </div>
-<h2>🌟 **My Stats!** 🌟</h2>
-</p>
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-<a>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gamerxr-637&theme=onedark&locale=en" />
-</a>
-<a>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gamerxr-637&layout=compact&langs_count=8&card_width=320&theme=onedark&locale=en" />
-</a>
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <img src="https://github-readme-stats.vercel.app/api?username=gamerxr-637&theme=dracula&show_icons=true&hide_border=true&locale=en&hide_rank=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gamerxr-637&layout=compact&langs_count=8&card_width=320&theme=dracula&hide_border=true&locale=en" alt="Top Languages" />
 </div>
-<!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gamerxr-637&theme=onedark" alt="gamerxr-637" /></p> -->
