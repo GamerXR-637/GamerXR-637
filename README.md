@@ -42,7 +42,7 @@ let data = {
   school: "HighSchool",
   languages: ["English", "Spanish"],
   coding_lang: ["JavaScript", "Python", "Lua", "and more"],
-  loves: {
+  things: {
     enjoy: ["Chess", "Card Games", "Math", "Space", "Short Stories"],
     books: ["Shadow Frost", "Curious Tides", "Percy Jackson"],
     quote:
