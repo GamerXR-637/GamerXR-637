@@ -25,6 +25,10 @@
 <br>All of that is what to write for stories, and other times is about math or thinking in general
 <br>My main language is English, but I know how to speak Spanish
 <br>As for me, I enjoy chess and other stuff 
+<br> 
+<br>I would have most of my school project here like websites for Content Creation or script for AP Computer Science 
+<br>One of the main projects that I am working on is [BetterTools-js](https://github.com/GamerXR-637/BetterTools-js) as which the name says that its some tools for JavaScript
+<br>Another language that I'm learning Lua for simple stuff.
 <br><a href="https://gamerxr637.is-a.dev/" target="_blank" rel="noopener">gamerxr637.is-a.dev</a>
 </p>
   
