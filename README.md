@@ -35,16 +35,37 @@
 ```js
 let data = {
   birthday: "June 25",
-  id: "Mexican / American",
-  pronouns: "He / Him / His // Any Pronouns",
+  id: ["Mexican", "American"],
+  pronouns: ["He", "Him", "His", "Any Pronouns"],
   discord: "_gamerxr.637_",
-  freeTime: "Chess / Video Games / Creative Writing",
-  loves: "Chess, Pokemon, Card games, Lego, Math",
-  books: "Shadow Frost, Curious Tides",
-  quote:
-    'All that we see or seem is but a dream within a dream."- Edgar Allan Poe',
-  constellation: "Phenix Constellation",
-  games: "Minecraft, Geometry Dash",
+  freeTime: ["Chess", "Video Games", "Creative Writing"],
+  school: "HighSchool",
+  languages: ["English", "Spanish"],
+  coding_lang: ["JavaScript", "Python", "Lua", "and more"],
+  loves: {
+    enjoy: ["Chess", "Card Games", "Math", "Space", "Short Stories"],
+    books: ["Shadow Frost", "Curious Tides", "Percy Jackson"],
+    quote:
+      'All that we see or seem is but a dream within a dream."- Edgar Allan Poe',
+    constellation: "Phenix Constellation",
+    games: ["Minecraft", "Geometry Dash"],
+    color: ["Red", "Green", "Blue"],
+  },
+  fav: {
+    youtube_vid: {
+      url: "https://youtu.be/RRfdgDEKeIk?si=KXdRga8dOKioYxMY",
+      title: "SCP-001: All Proposals (Fully Explained)",
+      by: " @gmdblue",
+      why: "I find it interesting of the scp files and really SCP - 001",
+    },
+    game: {
+      name: "Airborne",
+      in: "Steam",
+      by: ["bl4ck", "XDev"],
+      why: "It really similar to gd but with a twist of Lasers",
+      url: "https://store.steampowered.com/app/2338070/Airborne/",
+    },
+  },
   url: {
     main: "https://gamerxr637.is-a.dev/",
     "school-project": "https://gamerxr637.is-a.dev/Chess-Cancer/",
