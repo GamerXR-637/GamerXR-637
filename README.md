@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left"> I'm just a high school student who is learning languages to use them as tools
+<p align="left" style="word-wrap: break-word;"> I'm just a high school student who is learning languages to use them as tools
 <br>Most of the time, I am in my head, wondering and thinking many things
 <br>All of that is what to write for stories, and other times is about math or thinking in general
 <br>My main language is English, but I know how to speak Spanish
@@ -29,6 +29,9 @@
 <br>I would have most of my school project here like websites for Content Creation or script for AP Computer Science 
 <br>One of the main projects that I am working on is <a href="https://github.com/GamerXR-637/BetterTools-js" target="_blank" rel="noopener">BetterTools-js</a> as which the name says that its some tools for JavaScript
 <br>Another language that I'm learning Lua for simple stuff.
+<br>Anyways thanks for visting and reading this and luck to you on your day and life :)
+<br>
+<br>     - GamerXR
 <br><a href="https://gamerxr637.is-a.dev/" target="_blank" rel="noopener">gamerxr637.is-a.dev</a>
 </p>
   
@@ -59,7 +62,7 @@ let data = {
     youtube_vid: {
       url: "https://youtu.be/RRfdgDEKeIk?si=KXdRga8dOKioYxMY",
       title: "SCP-001: All Proposals (Fully Explained)",
-      by: " @gmdblue",
+      by: " youtube.com/@gmdblue",
       why: "I find it interesting of the scp files and really SCP - 001",
     },
     game: {
