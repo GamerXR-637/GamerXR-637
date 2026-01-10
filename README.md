@@ -75,7 +75,16 @@ let data = {
   },
   url: {
     main: "https://gamerxr637.is-a.dev/",
-    "school-project": "https://gamerxr637.is-a.dev/Chess-Cancer/",
+    "school-project": {
+        chessCancer: {
+            name: "Chess Cancer",
+            url: "https://gamerxr637.is-a.dev/Chess-Cancer/",
+        },
+        technologyForOne: {
+            name: "Technology for One",
+            url: "https://gamerxr637.is-a.dev/Technology-for-one/",
+        },
+    },
   },
 };
 ```
