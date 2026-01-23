@@ -69,7 +69,7 @@ let data = {
       name: "Airborne",
       in: "Steam",
       by: ["bl4ck", "XDev"],
-      why: "It really similar to gd but with a twist of Lasers",
+      why: "It really similar to gd but with a twist of Lasers, and it fun to try to die many times!",
       url: "https://store.steampowered.com/app/2338070/Airborne/",
     },
   },
@@ -88,6 +88,23 @@ let data = {
   },
 };
 ```
+
+```txt
+    The Flower
+**=-=-=-=-=-=-=-=-=-=-=***=-=-=-=-=-=-=-=-=-=-=**
+
+    The flower is the embodiment of many ideas
+    It shade of light purple is of that it shown
+    But the hidden meaning is that the people gives when interacted with
+    Ideas that is unique to the field of many different ideas
+    Ideas that is one of a kind
+    Ideas that are important in many ways
+
+    Ideas that are of the fallen angels of above
+    Many think of those as a guide to many
+    But other say it a guide to many more things
+```
+
 
 <h2 align="center">🌟 **My Stats!** 🌟</h2>
 
