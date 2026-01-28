@@ -1,7 +1,7 @@
 <p align="center"><img src="red-dark.png" width=105%></p>
 
 <h1 align="center">Hi 👋, I'm GamerXR-637</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=gamerxr-637&label=Profile%20views&color=0e75b6&style=flat" alt="gamerxr-637" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gamerxr-637&label=Profile%20views&color=5D3FD3&style=flat" alt="gamerxr-637" /> </p>
 <img align="right" height="250" src="glitch.animated.gif" />
 
 ###
@@ -20,15 +20,17 @@
 
 ###
 
-<p align="left" style="word-wrap: break-word;"> I'm just a high school student who is learning languages to use them as tools
+<p align="left" style="word-wrap: break-word;">Hello, I'm gamerxr
+<br>I'm just a high school student who is learning how to program
+<br>Somethimes most of the things just break or just take time
 <br>Most of the time, I am in my head, wondering and thinking many things
 <br>All of that is what to write for stories, and other times is about math or thinking in general
-<br>My main language is English, but I know how to speak Spanish
+<br>My main spoken language is English, but I know how to speak Spanish
 <br>As for me, I enjoy chess and other stuff 
-<br> 
+<br>I have this account to post anything that I created
+<br>
 <br>I would have most of my school project here like websites for Content Creation or script for AP Computer Science 
 <br>One of the main projects that I am working on is <a href="https://github.com/GamerXR-637/BetterTools-js" target="_blank" rel="noopener">BetterTools-js</a> as which the name says that its some tools for JavaScript
-<br>Another language that I'm learning Lua for simple stuff.
 <br>Anyways thanks for visting and reading this and luck to you on your day and life :)
 <br>
 <br>     - GamerXR
@@ -88,9 +90,9 @@ let data = {
   },
 };
 ```
-
+<br>
 ```txt
-    The Flower
+                    The Flower
 **=-=-=-=-=-=-=-=-=-=-=***=-=-=-=-=-=-=-=-=-=-=**
 
     The flower is the embodiment of many ideas
